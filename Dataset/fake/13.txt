@@ -1,0 +1,81 @@
+Senators Whine About FCC’s 25 Mbps Broadband Standard, Insist Nobody Needs That Much Bandwidth
+Jimmy Rustling, ABC News 
+f
+http://abcnews.com.co/senators-whine-about-fccs-25-mbps-broadband-standard/
+ALL SIX OF THE SENATORS THAT COMPLAINED TO THE FCC ABOUT LOWERING THEIR 25 MBPS BROADBAND STANDARD ARE IN THE POCKETS OF ONE OR MORE INTERNET SERVICE PROVIDER (ISP). THE ISP’S WANT A LOWER BROADBAND STANDARD TO INCREASE PROFITS SO THEY HIRE SENATORS TO COMPLAIN TO THE FCC FOR THEM. IT IS ABSOLUTELY FUCKING INSANE THIS CORRUPTION IS ALLOWED TO HAPPEN. THESE ARE BRIBES GIVEN TO EVIL, GREEDY ASSHOLES, WHO CARE NOTHING ABOUT THE PEOPLE THAT ELECTED THEM; THEY ONLY CARE ABOUT THE MONEY. AND NO ONE DOES ANYTHING TO STOP THIS; PEOPLE JUST KEEP REELECTING THESE UNETHICAL, IMMORAL MOTHERFUCKERS YEAR AFTER YEAR AFTER YEAR.
+
+The letter complaining to the FCC about their 25Mbps broadband standard was signed by:
+
+Roy Blunt (Mo.)
+Steve Daines (Mont.)
+Deb Fischer (Neb.)
+Cory Gardner (Colo.)
+Ron Johnson (Wis.)
+Roger Wicker (Miss.)
+
+What money they receive and from who:
+
+Roy Blunt (R-MO): $55,700 from Comcast, $26,000 from AT&T, $21,500 from Verizon
+Contact: https://www.blunt.senate.gov/public/index.cfm/contact-roy
+
+Steven Daines (R-MT): $15,000 from AT&T, $13,500 from Comcast, $13,000 from DirecTV (now AT&T)
+Contact: http://www.daines.senate.gov/connect/email-steve
+
+Deb Fischer (R-NE): $20,000 from Deutsche Telekom (T-mobile); $16,000 from National Cable & Telecommunications Assn; $15,250 from Comcast; $15,000 from AT&T; $13,750 from Cox Enterprises; $13,000 from Verizon; $9,500 from National Telecommunications; Cooperative Assn; $9,150 from CenturyLink; $7,500 from Cellular Telecom & Internet Assn
+Contact: http://www.fischer.senate.gov/public/index.cfm/contact
+
+Deb Fisher has a “Stand Up For Life” quote on her homepage LOL
+
+Cory Gardner (R-CO): $ 27,600 from CenturyLink; $23,000 from National Cable & Telecommunications Assn; $23,000 from AT&T; $20,500 from DirecTV (now AT&T); $18,350 from Comcast; $16,500 from tw telecom.
+Contact: http://gardnerforco.wpengine.com/contact-us/
+
+Ron Johnson (R-WI): $15,000 from Verizon; $10,000 from National Cable & Telecommunications Assn; $10,000 from AT&T
+Contact: https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator
+
+Roger Wicker (R-MS): $36,500 from Cox Enterprises; $32,500 from Comcast; $27,000 from National Cable & Telecommunications Assn; $17,000 from AT&T; $11,500 from Verizon; $10,500 from Deutsche Telekom (T-Mobile); $10,000 from Time Warner Cable
+Contact: https://www.wicker.senate.gov/public/index.cfm/contact
+
+The following is the story from TechDirt
+
+Just about a year ago, the FCC voted to raise the base definition of broadband from 4 Mbps downstream, 1 Mbps upstream — to 25 Mbps downstream, 3 Mbps upstream. This, of course, annoyed the nation’s mega providers, since the higher standard highlights the lack of competition and next-generation upgrades in countless markets. It especially annoyed the nation’s phone companies, given that the expensive, sub-6 Mbps DSL foisted upon millions of customers can no longer even technically be called broadband.
+
+Fast forward a year and the broadband providers’ favorite politicians in the House are still whining about the improved definition. In a letter sent to the FCC last week (pdf), the six senators complained that the FCC is on a mad power grab, using a crazy and arbitrary new definition to saddle broadband providers with all manner of onerous regulations. Besides, argued the six Senators, 25 Mbps is more than any American consumer could ever possibly need:
+
+“LOOKING AT THE MARKET FOR BROADBAND APPLICATIONS, WE ARE AWARE OF FEW APPLICATIONS THAT REQUIRE DOWNLOAD SPEEDS OF 25 MBPS. NETFLIX, FOR EXAMPLE, RECOMMENDS A DOWNLOAD SPEED OF 5 MBPS TO RECEIVE HIGH-DEFINITION STREAMING VIDEO, AND AMAZON RECOMMENDS A SPEED OF 3.5 MBPS. IN ADDITION, ACCORDING TO THE FCC’S OWN DATA, THE MAJORITY OF AMERICANS WHO CAN PURCHASE 25 MBPS CHOOSE NOT TO.”
+
+Focusing on the fact that a single Netflix stream eats just 3.5 to 5 Mbps ignores the fact that broadband connections serve an entire house of hungry users, many of whom will be gobbling significantly more bandwidth using any number of services and connected devices. It’s also worth pointing out that a single Netflix Ultra HD stream can eat 25 Mbps all by itself. And on the upstream side of the equation, the FCC’s definition of 3 Mbps remains relatively last-generation and arguably pathetic. Similarly, many consumers may not buy 25 Mbps because the lack of competition can result in high prices for faster tiers.
+
+In other words, claiming 25 Mbps is some kind of “arbitrary,” pie-in-the-sky standard is absurd.
+
+Of course, the Senators don’t really care about technical specifics, they’re just blindly echoing the broadband industry’s annoyance that the FCC is now actually highlighting the lack of broadband competition in the market. They’re specifically bothered by this recent FCC study, which notes that two-thirds of U.S. households lack the choice of more than one ISP at speeds of 25 Mbps or greater. Companies like AT&T and Verizon also don’t like how this data highlights the fact they’re giving up on rural America and many second- and third-tier cities, freezing broadband deployments and in some cases even refusing to repair aging infrastructure.
+
+And while it’s certainly true the higher standard helps prop up the FCC’s Congressional mandate to ensure quality broadband is deployed in a “reasonable and timely” basis (and by proxy its Title II reclassification), a lot of the FCC’s efforts have quietly involved eliminating regulation, ranging from streamlining tower placement and pole attachment regulations, to eliminating the kind of awful state level protectionist laws that keep municipal and public/private broadband networks from taking root in incumbent duopolist territories.
+
+At the end of the day, incumbent providers and the politicians who love them are simply annoyed that the FCC has any standards whatsoever, since that makes it immeasurably harder to pretend that the nation’s broadband competition and connectivity issues don’t exist.
+
+The complaint letter to the FCC:
+The complaint letter to the FCC
+
+Note from the author: I was tagging this article as “Republican”. Then I realized that I actually didn’t know what party these six senators were affiliated with, I was just assuming Republican. So I checked, and I was right. Then I laughed. Then I felt sad about this reality.
+
+UPDATE 3/2/16
+I just got a response from Senator Ron Johnson about Net Neutrality. This sentence was in the email: “The term “net neutrality” might sound good, but it is just a clever name for government control of the Internet.”
+
+The whole email is bullshit, but that sentence above made me sick. He’s using it to manipulate people while getting paid (bribed) by ISP’s to push their agenda thru, attempting to silence free speech. This person has lost all his morals years ago and is nothing but a greedy, evil, shill for whoever can pay him the most money…. and he’ll probably get re-elected again by the same people who he does not serve.
+
+==========
+Dear Mr. Horner,
+
+Thank you for contacting me regarding the issue of net neutrality.
+
+On February 26, 2015, unelected bureaucrats at the Federal Communications Commission (FCC) voted 3-2 to impose heavy-handed regulations known as net neutrality on the Internet. The term “net neutrality” might sound good, but it is just a clever name for government control of the Internet.
+
+Since the Clinton administration, the FCC has wisely applied a light regulatory touch to broadband services, resulting in a highly successful broadband industry. The FCC reversed that bipartisan policy decision after consulting with outside interests rather than Congress. The decision is wrong, and the process raises serious questions about the president’s inappropriate influence over what is supposed to be an independent agency overseen by Congress.
+
+Thank you again for contacting my office. It is very helpful to hear the views of the constituents I serve. To date, my office has received more than 1,800,000 letters, emails and phone calls. My mission is to provide information to as many people as possible concerning the enormous financial and cultural challenges facing America.
+
+Please see my website at www.ronjohnson.senate.gov for additional information. It is an honor representing you and all the people of Wisconsin.
+
+Sincerely,
+
+Ron Johnson United States Senator

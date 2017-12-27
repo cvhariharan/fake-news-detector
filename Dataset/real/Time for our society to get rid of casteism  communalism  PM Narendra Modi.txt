@@ -1,0 +1,9 @@
+To mark the 50th death anniversary of a saint from Gujarat — Shri Rang Avadhoot Maharaj — Prime Minister Narendra Modi Saturday addressed a gathering in Ahmedabad through video conference. Addressing the gathering of Shri Rang Avadhoot Parivar in Gujarati, the Prime Minister said that as India heads towards 2022, it is time for society to get rid of social evils like casteism, terrorism, black money, corruption, communalism and nepotism. “We have to pledge to rid our society of these evils,” Modi said.
+
+
+
+			if(typeof(jQuery)=="function"){(function($){$.fn.fitVids=function(){}})(jQuery)};
+				jwplayer('jwplayer_ugwZjtaH_xe0BVfqu_div').setup(
+				{"playlist":"http:\/\/vidshare.indianexpress.com\/jw6\/ugwZjtaH.xml"}
+			);
+		

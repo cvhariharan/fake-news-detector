@@ -1,0 +1,10 @@
+Even as talks between the Congress and Patidar Anamat Andolan Samiti (PAAS) to work out a quota formula remained inconclusive, four Congress municipal councillors from Surat, who come from the Patidar community, on Saturday announced that they would go with PAAS’s decision on whether to support the Congress in the elections. The announcement is seen as a setback to the Congress, which had won 33 of 116 seats in the Surat Municipal Corporation polls in 2015, following the Patidar quota agitation. The party earlier had 11 councillors.On Friday, PAAS had given the Congress a “24-hour deadline” to clear its stand on the quota issue. At a press conference on Saturday, Congress municipal councillor Dinesh Savaliya said, “We won on the strength of votes of the Patidar community, and 23 municipal councillors were for the first time elected from Patidar-dominated areas in Surat. We and our leaders actively participated in the protests and rallies (because) the demand for reservation was for our community, and we have to stand with them.” If the Congress fails to comply with demands of PAAS in the next 24 hours, he said, “we will act as per direction of the PAAS team, and not according to instructions of the Congress party”.
+
+
+
+			if(typeof(jQuery)=="function"){(function($){$.fn.fitVids=function(){}})(jQuery)};
+				jwplayer('jwplayer_ugwZjtaH_xe0BVfqu_div').setup(
+				{"playlist":"http:\/\/vidshare.indianexpress.com\/jw6\/ugwZjtaH.xml"}
+			);
+		
+Three other Congress municipal councillors — Charul Kaswala, Manoj Chovatiya, D P Vekariya — along with 20 others Patidar youths were present at the media briefing. In Vadodara, senior Congress leader Kapil Sibal, who had earlier held talks with PAAS leaders, said, “All I can say is, I was sent to Gujarat to understand their (PAAS) demands. We spoke for long hours, until 3 in the night. I have suggested a formula to them — I am not going to reveal what — and they were supposed to study it and get back to us within three days. I do not know what happened after that.

@@ -1,0 +1,9 @@
+The BJP’s second list of 36 candidates focuses on winnability, repeating 10 candidates from last Assembly elections, and three ministers, even as it dropped Minister for Women and Child Welfare Nirmala Wadhwani, who represented Naroda constituency, which goes to the polls in the second phase of Vidhan Sabha elections on December 14.The party picked Balram Thavani, a corporator from Kubernagar in Ahmedabad in 2002-05 and a loyalist of former state minister Maya Kodnani, who has been convicted in the 2002 Naroda Patia riots case, for the Naroda seat.Eighteen of 36 candidates announced will contest in the first phase. The BJP has delayed naming contestants for some Patidar-dominated seats in Saurashtra. There are four women candidates in this batch, three of them contesting their maiden polls.Relatives of two MLAs have been given tickets — Gitaba Jadeja, wife of convicted BJP MLA Jairajsinh Jadeja from Gondal seat, and Malti Maheswari, niece of Gandhidham MLA Ramesh Maheshwari. Lakshman Odedra, son of alleged Porbandar gangster Bhima Dula, was named the BJP candidate from Kutiyana, in Porbandar.In what seems an aberration from the winnability criterion, Naresh Patel, BJP district president of Navsari, will contest from Gandevi, overlooking the claim of six-term MLA and two-time minister Mangubhai Patel.
+
+
+
+			if(typeof(jQuery)=="function"){(function($){$.fn.fitVids=function(){}})(jQuery)};
+				jwplayer('jwplayer_ugwZjtaH_xe0BVfqu_div').setup(
+				{"playlist":"http:\/\/vidshare.indianexpress.com\/jw6\/ugwZjtaH.xml"}
+			);
+		

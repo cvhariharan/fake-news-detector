@@ -1,0 +1,10 @@
+Taking cognizance of a complaint against a video clip, circulating on social media, Gujarat Police has ordered Ahmedabad Cyber Crime Cell to initiate a probe into it. The video clip shows a girl walking fearfully on a road as an azaan — Muslim call to prayer — is heard in the background.While no one has owned up to the video that was circulated on WhatsApp, human rights lawyer Govind Parmar filed a complaint with the Election Commission and Gujarat police demanding a ban on the video and take legal action against the persons shown in the clip and its producers.The Director-General of Police (DGP) office on Saturday issued a press release stating, “We have taken cognisance of this issue and entrusted the same to the Cyber Crime Cell, Ahmedabad city. A detailed inquiry will be carried out into the matter and we will take necessary action based on findings of the enquiry.”
+
+
+
+			if(typeof(jQuery)=="function"){(function($){$.fn.fitVids=function(){}})(jQuery)};
+				jwplayer('jwplayer_ugwZjtaH_xe0BVfqu_div').setup(
+				{"playlist":"http:\/\/vidshare.indianexpress.com\/jw6\/ugwZjtaH.xml"}
+			);
+		
+The release added, “Govind Parmar, advocate, Human Rights Law Network, Ahmedabad has submitted an application to the Election Commission of India regarding the circulation of an objectionable video clip on social media. It is alleged that the video is being circulated with an intention to create a communal divide in the society in the context of Gujarat Assembly elections.”In his complaint, Parmar has alleged that the video can be used to polarise votes in the state and stoke hatred against Muslims.
